@@ -1,13 +1,13 @@
 # 👻 Ghost Money Detector
 ### AI Agent for Synthetic Identity Fraud Detection
 
-> *"Everyone builds a fraud detector. I built a fraud explainer. The model catches it — the agent tells the analyst exactly why in plain English so they can act in 2 minutes, not 45."*
+> *"Everyone builds a fraud detector. I built a fraud explainer. The model catches it the agent tells the analyst exactly why in plain English so they can act in 2 minutes, not 45."*
 
 ---
 
 ## 🔍 Business Problem
 
-A digital lending startup is approving loans to **ghost borrowers** — synthetic identities that combine real and fake data to pass every standard KYC check. Fraud is only discovered at collections, costing **$2.3M annually**.
+A digital lending startup is approving loans to **ghost borrowers** synthetic identities that combine real and fake data to pass every standard KYC check. Fraud is only discovered at collections, costing **$2.3M annually**.
 
 Standard fraud detection asks: *"Does this identity exist?"*
 This system asks: *"Does this identity make sense as a real human life?"*
